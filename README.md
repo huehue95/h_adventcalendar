@@ -7,4 +7,5 @@ Fivem Joulukalenteri systeemi
 
 ## Preview
 
-![image](https://github.com/huehue95/h_adventcalendar/assets/58138952/564cc1d7-4a24-4b75-a981-7fd93a4dc87b)
+![image](https://github.com/huehue95/h_adventcalendar/assets/58138952/b9384718-0854-406a-afc4-55ef39a5a053)
+
